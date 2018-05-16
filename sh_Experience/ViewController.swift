@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     var sum = 0
+    var three = 3
 
     override func viewDidLoad() {
         super.viewDidLoad()
